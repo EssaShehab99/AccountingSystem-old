@@ -1,0 +1,93 @@
+c:\users\essa salam\documents\visual studio 2012\Projects\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\bin\Debug\db_accounts.mdf
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\bin\Debug\db_accounts_log.ldf
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.pdb
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Login.resources
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.exe
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.pdb
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Main_Form.resources
+C:\Users\Essa Salam\documents\visual studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Cash_Pull.resources
+C:\Users\Essa Salam\documents\visual studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Cash_Deposit.resources
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.exchange_between_account.resources
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Exchange_Currency.resources
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Add_Account.resources
+F:\AccountingSystem4\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.exe
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.pdb
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.Financial_Status_accounts.resources
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.Add_Account.resources
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.Exchange_Currency.resources
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.Cash_Deposit.resources
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.exchange_between_account.resources
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.Cash_Pull.resources
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.Login.resources
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.Main_Form.resources
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+F:\AccountingSystem4\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.Cache
+F:\AccountingSystem4\AccountingSystem\bin\Debug\db_accounts.mdf
+F:\AccountingSystem4\AccountingSystem\bin\Debug\db_accounts_log.ldf
+F:\AccountingSystem4\AccountingSystem\bin\Debug\AccountingSystem.exe
+F:\AccountingSystem4\AccountingSystem\bin\Debug\AccountingSystem.pdb
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Financial_Status_accounts.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.exe
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.pdb
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.pdb
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Financial_Status_accounts.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Add_Account.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Exchange_Currency.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Cash_Deposit.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.exchange_between_account.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Cash_Pull.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Login.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Main_Form.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Manage_Users.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Take_Backup.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Restore_Backup.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Found_Operation.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Export_Report.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\bin\Debug\itextsharp.dll
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.ResolveComReference.cache
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe.manifest
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.application
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.exe.manifest
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.application
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Manage_Items.resources
+C:\Users\Essa Salam\Desktop\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Full_Accounts.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.ResolveComReference.cache
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.exe
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.pdb
+D:\النظام القديم\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe.manifest
+D:\النظام القديم\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.application
+D:\النظام القديم\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe
+D:\النظام القديم\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.pdb
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Export_Report.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Financial_Status_accounts.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Add_Account.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Exchange_Currency.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Cash_Deposit.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.exchange_between_account.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Cash_Pull.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Login.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Main_Form.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Manage_Users.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Found_Operation.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Manage_Items.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Full_Accounts.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Take_Backup.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.Restore_Backup.resources
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.Cache
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.exe.manifest
+D:\النظام القديم\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.application
